@@ -27,7 +27,7 @@ yarn add github:wffzy/cumsoft
 ```
 Then import your code using:
 ```js
-const cum = require('cumsoft')
+const cs = require('cumsoft')
 ```
 
 
